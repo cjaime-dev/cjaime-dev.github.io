@@ -24,6 +24,11 @@ Me especializo en la construcción de sistemas robustos, la gestión de infraest
 
 🔗 Demo: [gcr-aegis.on-forge.com](https://gcr-aegis.on-forge.com)
 
+**Usuario:** analista@gla-aduanas.com	**Contraseña:** password **Tipo:** Empresa
+
+**Usuario:** analista@grupologistica.com	**Contraseña:** password **Tipo:** Organizacion
+
+
 ### 🛠️ Stack tecnológico y herramientas
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
