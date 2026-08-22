@@ -22,12 +22,17 @@ Me especializo en la construcción de sistemas robustos, la gestión de infraest
 
 `Laravel 12` `React 19 + TypeScript` `Inertia.js` `PostgreSQL` `Tailwind CSS v4`
 
-🔗 Demo: [gcr-aegis.on-forge.com](https://gcr-aegis.on-forge.com)
+🔗 Demo
 
-**Usuario:** analista@gla-aduanas.com	**Contraseña:** password **Tipo:** Empresa
+**Tipo:** Empresa
+- **URL:** [grc-aegis.on-forge.com/login/agencia_de_aduanas_gla](https://grc-aegis.on-forge.com/login/agencia_de_aduanas_gla)
+- **Usuario:** analista@gla-aduanas.com
+- **Contraseña:** password
 
-**Usuario:** analista@grupologistica.com	**Contraseña:** password **Tipo:** Organizacion
-
+**Tipo:** Organizacion
+- **URL:** [grc-aegis.on-forge.com/login/grupo_logistico_internacional](https://grc-aegis.on-forge.com/login/grupo_logistico_internacional)
+- **Usuario:** analista@grupologistica.com
+- **Contraseña:** password
 
 ### 🛠️ Stack tecnológico y herramientas
 
